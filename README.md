@@ -3,6 +3,13 @@ Collection of SQL scripts for practicing core to advanced queries using a realis
 
 This repository contains a comprehensive set of SQL scripts designed for practicing core to advanced SQL queries using a realistic Inventory Management database to demonstrate SQL proficiency.
 
+## 📂 Repository Structure
+- `basics/` → Create tables, insert data, basic queries (SELECT, UPDATE, DELETE).
+- `subquery/` → Scripts having sub queries
+- `joins/` → Examples of INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN.
+- `aggregate/` → Using GROUP BY, HAVING, aggregate functions (SUM, COUNT, AVG).
+- `practice/` → Real-world styled problems and solutions.
+
 ## Contents
 
 1. **Database Creation**
